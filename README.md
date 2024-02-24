@@ -18,7 +18,7 @@
 
 #### 1、在 [千帆大模型平台](https://console.bce.baidu.com/tools/?_=1692863460488#/api?product=AI&project=%E5%8D%83%E5%B8%86%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%B3%E5%8F%B0&parent=%E9%89%B4%E6%9D%83%E8%AE%A4%E8%AF%81%E6%9C%BA%E5%88%B6&api=oauth/2.0/token&method=post) 按照要求获取access key 并**开通 ERNIE-Bot 大模型公有云在线调用服务**
 
-![](doc/imgs/getKey.png)
+![](https://github.com/1-on/AiGenerate-java-sdk/blob/master/doc/imgs/getkey.png)
 
 #### 2、初始化 AiGenerateClient 对象
 
